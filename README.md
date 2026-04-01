@@ -22,7 +22,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 -> Power BI
 
 # ▶️ How to Run This Project
-1. Clone the repository
+1. Clone the repository   
   git clone https://github.com/Sameer745/Customer_behaviour_analysis  
   cd customer-trends-data-analysis-SQL-Python-PowerBI
 
