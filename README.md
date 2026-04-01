@@ -14,13 +14,19 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 # ⚙️ Tech Stack
 -> Python (Pandas)
+
 -> Jupyter Notebook
+
 -> SQL (MySQL)
+
 -> Power BI
 
 # 💡 Key Business Insights
 -> High-value customers are mostly repeat buyers
+
 -> Subscription adoption is low despite similar spending
+
 -> Certain categories (Accessories, Footwear) drive more revenue
+
 -> Discount usage does not always reduce spending
 
